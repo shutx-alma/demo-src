@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 1106a
+Build-Jdk: 21.0.2
+Implementation-Title: test Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: demo
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
